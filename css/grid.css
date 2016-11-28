@@ -1,0 +1,150 @@
+.navSide {
+	height: 100%;
+	width: 40%;
+	float: left;
+	padding-top:3%;
+	padding-left: 5%;
+}
+
+.contentSide {
+	height: 100%;
+	width: 55%;
+	float: right;
+}
+
+#aboutContainer {
+	height: 100%;
+	width: 100%;
+}
+
+#aboutText {
+	width: 85%;
+	height: 60%;
+	overflow: scroll;
+}
+
+#imageScroll {
+	width: 100%;
+	height: 50%;
+	padding-top: 5%;
+}	
+
+#navBottom {
+	position: absolute;
+	bottom: 0;
+	left: 1%;
+	width: 35%;
+}
+
+.portfolioSection {
+	width: 45%;
+	float: left;
+}
+
+footer {
+	width: 100%;
+	height: 70px;
+	float: left;
+	overflow: auto;
+}
+
+.padded {
+	padding-top: 5%;
+}
+
+.blogContainer {
+	height: 35%;
+	width: 85%;
+	overflow: scroll;
+}
+
+#blogHeader {
+	width: 80%;
+}
+
+.blogSection {
+	width: 100%;
+	float: left;
+	margin-bottom: 25px;
+}
+
+.blogSection img {
+	width: 100px;
+	float: left;
+}
+
+.blogPostSection {
+	width: 80%;
+	height: 50%;
+	float: left;
+	margin-bottom: 25px;
+	overflow: scroll;
+}
+
+.blogPostSection img {
+	float: left;
+	width: 100px;
+	height: 100px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+
+.blogPostSection p {
+	margin-top: 0;
+}
+
+.blogPost {
+	overflow: auto;
+}
+
+#blogText {
+	width: 100%;
+	height: 100%;
+	overflow: scroll;
+}
+
+.scroller {
+	overflow: scroll;
+}
+
+.map {
+	width: 100%;
+	height: 100%;
+	padding: 1px;
+	border: none;
+ }
+
+ .googleMap {
+	border: 1px solid #8c8c8c;
+	width: 75%;
+	height: 300px;
+ }
+
+#bigImage {
+	border: solid 1px #000000;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 10%;
+	width: 60%;
+	margin: auto;
+	/*height: 597px;*/
+	z-index: 0;
+	background-color: #ffffff;
+	display: none;
+	overflow: hidden;
+}
+
+#popUpBox {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	top: 0;
+	left: 0;
+	float: left;
+}
+
+
+
+
+

@@ -1,0 +1,12 @@
+.portfolioSection {
+	margin-right: 15px;
+}
+
+.portfolioSection a {
+	text-decoration: underline;
+}
+
+#portfolioContainer {
+	height: 80%;
+	overflow: scroll;
+}

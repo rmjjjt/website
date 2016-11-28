@@ -1,0 +1,13 @@
+footer {
+	background-color: #ffffff;
+}
+
+#footerNav {
+	margin: auto;
+	width: 100%;
+}
+
+#footerNav a {
+	padding-right: 2%;
+}
+

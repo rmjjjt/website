@@ -1,0 +1,50 @@
+#header {
+	color: #8c8c8c;
+	font-family: 'Bitter', serif;
+	font-size: 56px;
+}
+
+.experienceHeader {
+	font-weight: bold;
+}
+
+.experienceHeader a {
+	text-decoration: underline;
+}
+
+#copy {
+	font-size: 10px;
+}
+
+p {
+	color: #8c8c8c;
+}
+
+li {
+	color: #8c8c8c;
+}
+
+h1 {
+	font-family: 'Bitter', serif;
+	font-size: 36px;
+	color: #8c8c8c;
+	margin-bottom: 0;
+}
+
+#red {
+	color: #ff0000;
+}
+
+h2 {
+	color: #8c8c8c;
+	font-family: 'Bitter', serif;
+}
+
+h3 {
+	color: #8c8c8c;
+	font-family: 'Bitter', serif;
+}
+
+.standOut {
+	color: #404040;
+}

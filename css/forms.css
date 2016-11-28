@@ -1,0 +1,27 @@
+textarea {
+	resize: none;
+	background: transparent;
+	font-size: 16px;
+}
+
+input, 
+text {
+	background-color: rgba(255,255,255,0.0);
+}
+
+input:focus { 
+    outline: none;
+    border-color: #8c8c8c;
+    box-shadow: 0 0 3px #8c8c8c;
+}
+
+textarea:focus { 
+    outline: none;
+    border-color: #8c8c8c;
+    box-shadow: 0 0 3px #8c8c8c;
+}
+
+#formSection {
+	height: 60%;
+	overflow: scroll;
+}

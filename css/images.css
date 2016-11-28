@@ -1,0 +1,78 @@
+.portfolioSection img {
+	width: 63px;
+	height: 63px;
+	float: left;
+	margin: 3px 6px 3px 3px;
+	border: 1px solid #333333;
+}
+
+#imageScroll img {
+	width: 30%;
+	filter: blur(0);
+	-webkit-filter: blur(0);
+	-moz-filter: blur(0);
+	-o-filter: blur(0);
+	-ms-filter: blur(0);
+	opacity: 0.4;
+	border: none;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	box-sizing: content-box;
+}
+
+.ie #imagescroll img:hover {
+	filter: none;
+}
+
+/*#imageScroll img:hover {*/
+	/*filter: blur(5px);*/
+	/*-webkit-filter: blur(5px);*/
+	/*-moz-filter: blur(5px);*/
+	/*-o-filter: blur(5px);*/
+	/*-ms-filter: blur(5px);*/
+	/*border: 2px solid #bfbfbf;*/
+	/*margin-top: 0;*/
+	/*margin-bottom: 0;*/
+	/*margin-left: 0;*/
+	/*margin-right: 0;*/
+/*}*/
+
+body {
+	background-image: url("../images/bg.png");
+	background-size: 90%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.blogImage {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.blogContainer img {
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding: 10px 10px 5px 0;
+}
+
+#close-button {
+	width: 25px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.arrow {
+	width: 25px;
+	position: absolute;
+	top: 49%;
+	z-index: 1;
+}
+
+#right-arrow {
+	right: 0;
+}

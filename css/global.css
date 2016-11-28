@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	overflow: hidden;
+}
+
+.tabs input[type=radio] {
+  display: none;
+}
+
+input[type=radio]:checked ~ label {
+  z-index: 2;
+}
+
+input[type=radio]:checked ~ label ~ .content {
+	position: relative;
+  	z-index: 1;
+}
+
+.content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	z-index: 2;
+}

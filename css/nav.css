@@ -1,0 +1,21 @@
+nav {
+	width: 250px;
+	height: 40%;
+	padding-left: 5%;
+	overflow: scroll;
+}
+
+.navLink {
+	display: block;
+	margin-top: 15px;
+}
+
+nav a {
+	color: #404040;
+	font-size: 28px;
+	font-family: 'Bitter', serif;
+}
+
+#navBottom {
+	background-color: #ffffff;
+}

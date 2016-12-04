@@ -34,11 +34,11 @@
                 <a href="clock.php">Digital Clock</a>
                 <p>A JavaScript/jQuery digital clock I created. Mostly to see if I could, but also for practice. Canvas is HTML5 and the rest is JS/jQuery.</p>
                 </div>
-            <!-- <div class="portfolioSection">
-                <img src="images/logo.png">
-                <a target=_blank href="#">Link</a>
-                <p>Lorem ipsum dolor sit amet, eu denique accusam corpora vel. Ius falli mundi zril at. Usu et nusquam molestie, nec an essent aliquam. Vivendo evertitur mediocritatem cum at. Mazim liber diceret ex mei. His ut adhuc melius nostrum, assentior repudiandae at eam, an delicata perpetua constituam vis. </p>
-            </div> -->
+            <div class="portfolioSection">
+                <img src="images/mega-man-right.png">
+                <a href="walkyV2.php">Mr Walky Man V2</a>
+                <p>He's back and THIS TIME IT'S PERSONAL (it's not, but he is a bit better than before!)</p>
+            </div>
             <!-- <div class="portfolioSection">
                 <img src="images/logo.png">
                 <a target=_blank href="#">Link</a>

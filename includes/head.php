@@ -15,6 +15,5 @@
     <link rel="stylesheet" type="text/css" href="css/fencelator.css">
     <link rel="stylesheet" type="text/css" href="css/walky.css">
     <link rel="stylesheet" type="text/css" href="css/clockStyles.css">
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
-    <script src="js/script.js"></script>
+    <script src="js/jquery-3.1.1.min.js"></script>
 </head>

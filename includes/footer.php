@@ -8,6 +8,7 @@
             <a target="_blank" href="http://www.ionmayden.com"><i class="fa fa-wordpress fa-3x wblue" aria-hidden="true"></i></a>
             <a target="_blank" href="http://codepen.io/rmjjjt/"><i class="fa fa-codepen fa-3x codepen" aria-hidden="true"></i></a>
             <a target="_blank" href="http://uk.linkedin.com/in/rhymes-toasterface"><i class="fa fa-linkedin-square fa-3x linkedIn" aria-hidden="true"></i></a>
+            <div class="footerLink" ><a target="_blank" href="http://www.zend.com/en/yellow-pages/ZEND029431"><img src="images/zce-php-engineer-logo-l.jpg"></a></div>
         </div>
     </footer>
 </div>

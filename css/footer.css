@@ -11,3 +11,14 @@ footer {
 	padding-right: 2%;
 }
 
+.footerLink {
+	width: 45px;
+	padding-top: 3px;
+	margin-right: 10px;
+	float: left;
+}
+
+.footerLink img {
+	width: 100%;
+}
+

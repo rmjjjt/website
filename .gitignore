@@ -1,2 +1,3 @@
 includes/classes/conn.php
 .DS_Store
+.idea/
